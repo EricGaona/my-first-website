@@ -30,3 +30,28 @@ nav a:hover{
     background-color:#ffffff;
     color:#4a4a4f;
 }
+.row{
+    width:100%;
+}
+
+.card{
+    float:left;
+    width: 20%;
+    margin-left: 10%;
+    max-width: 260px;
+    min-width: 15px;
+    
+}
+
+.card a{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height:180px;
+}
+
+h1{
+    text-align: center
+}
